@@ -52,6 +52,7 @@
 - cd ..
 - cd PATH
 - mkdir
+- touch
 - rm
 - rf
 - whoami
